@@ -1,0 +1,93 @@
+body{
+    background-color: whitesmoke;
+}
+form{
+ float: right;
+ border: 2px solid white;
+ width: 33%;
+ height: 100px;
+ margin-right: 130px;
+ margin-top: 130px;
+ padding-top: 230px;
+ border-radius: 10px;
+ background-color: white;
+ box-shadow: 2px 2px 2px 2px grey;
+ 
+}
+#a{
+   position: relative;
+   bottom: 210px;
+   left: 22px;
+   height: 33px;
+   width: 390px;
+   border: 1px solid lightslategray;
+   border-radius: 5px;
+   letter-spacing:1px;
+}
+#b{
+    position: relative;
+    bottom: 218px;
+    left: 21px;
+   height: 33px;
+   width: 390px;
+   border-radius: 5px;
+   letter-spacing:1px;
+   border: 1px solid lightslategrey;
+
+}
+#c{
+    position: relative;
+    bottom: 223px;
+    left: 20px;
+   height: 42px;
+   width: 397px;
+   color: white;
+   background-color: rgb(66, 103, 178);
+   font-size: medium;
+   border-radius: 5px;
+   letter-spacing:1px;
+   border: 1px solid lightslategray;
+
+}
+#d{
+    position: relative;
+    bottom: 227px;
+    left: 160px;
+    color: rgb(66,103,178);
+   letter-spacing:1px;
+
+}
+#f{
+    position: relative;
+    bottom: 220px;
+}
+#e{
+    position: relative;
+    bottom: 190px;
+    left: 120px;
+    height: 44px;
+    width: 200px;
+    background-color: forestgreen;
+    color: white;
+    border-radius: 5px;
+   letter-spacing:1px;
+   border: 1px solid lightslategray;
+
+
+}
+#g{
+    font-style: unset;
+    font-size: 70px;
+    position: relative;
+    top: 180px;
+    left: 113px;
+}
+#h{
+    font-size: 30px;
+    position: relative;
+    top: 118px;
+    left: 152px;
+}
+a{
+    color: white;
+}
